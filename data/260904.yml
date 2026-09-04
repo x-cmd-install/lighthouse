@@ -7,7 +7,7 @@ about:
   head: e423a66
   archived: false
   latestVersion: v8.2.2
-  collectedAt: 2026-09-04T19:32:14Z
+  collectedAt: 2026-09-04T21:01:19Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-08-17
@@ -86,6 +86,79 @@ total:
   openIssue: 436
   commit: 7553
 ---
+path: /home/runner/.x-repo/github.com/sigp/lighthouse
+collectedAt: 2026-09-04T21:01:27Z
+loc:
+  Rust:
+    code: 281565
+    comments: 17525
+    blanks: 35121
+    files: 895
+  Json:
+    code: 8290
+    comments: 0
+    blanks: 1
+    files: 14
+  Toml:
+    code: 2496
+    comments: 74
+    blanks: 210
+    files: 94
+  Yaml:
+    code: 1378
+    comments: 1258
+    blanks: 298
+    files: 46
+  Sh:
+    code: 683
+    comments: 126
+    blanks: 163
+    files: 12
+  Makefile:
+    code: 273
+    comments: 90
+    blanks: 92
+    files: 5
+  Python:
+    code: 232
+    comments: 50
+    blanks: 48
+    files: 3
+  Tex:
+    code: 94
+    comments: 4
+    blanks: 18
+    files: 2
+  Dockerfile:
+    code: 30
+    comments: 4
+    blanks: 3
+    files: 2
+  Css:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 3
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6808
+    blanks: 2539
+    files: 84
+  Text:
+    code: 0
+    comments: 270
+    blanks: 0
+    files: 10
+total:
+  code: 296428
+  comments: 41618
+  blanks: 41356
+  files: 1169
 ---
 date: "2026-08-24"
 repo:
