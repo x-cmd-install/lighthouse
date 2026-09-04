@@ -1,0 +1,62 @@
+about:
+  description: Ethereum consensus client in Rust
+  license: Apache-2.0
+  homepage: https://lighthouse-book.sigmaprime.io/
+  head: e423a66
+  archived: false
+  latestVersion: v8.2.2
+  collectedAt: 2026-09-04T04:28:59Z
+timeline:
+  created: 2018-07-06
+  lastCommit: 2026-08-17
+  lastRelease: 2026-08-18
+popularity:
+  star: 3467
+  watcher: 69
+  fork: 1053
+  release: 125
+  contributor: 237
+  pullRequest: 4332
+  issue: 2562
+language:
+  Rust: 13105838
+  Shell: 34222
+  Makefile: 16590
+  Python: 12084
+  TeX: 7292
+  Dockerfile: 1485
+  CSS: 56
+totalLine: 13177567
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 46
+    openPR: 51
+    closedIssue: 4
+    openIssue: 14
+    commit: 2
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 142
+    openPR: 76
+    closedIssue: 17
+    openIssue: 43
+    commit: 46
+  last180d:
+    since: 2026-03-08
+    release: 5
+    mergedPR: 300
+    openPR: 91
+    closedIssue: 45
+    openIssue: 70
+    commit: 202
+  last360d:
+    since: 2025-09-09
+    release: 12
+    mergedPR: 616
+    openPR: 99
+    closedIssue: 132
+    openIssue: 120
+    commit: 502
