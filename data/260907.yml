@@ -5,7 +5,7 @@ about:
   head: e423a66
   archived: false
   latestVersion: "v8.2.2"
-  collectedAt: 2026-09-07T04:50:58Z
+  collectedAt: 2026-09-07T19:36:50Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-08-17
@@ -16,7 +16,7 @@ popularity:
   fork: 1054
   release: 125
   contributor: 237
-  pullRequest: 7339
+  pullRequest: 7350
   issue: 2563
 language:
   Rust: 13105838
@@ -31,61 +31,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 39
-    openPR: 54
+    mergedPR: 40
+    openPR: 59
     closedIssue: 4
     openIssue: 14
     commit: 2
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 91
-    openPR: 69
+    mergedPR: 92
+    openPR: 74
     closedIssue: 9
     openIssue: 26
     commit: 8
   last90d:
     since: 2026-06-09
     release: 3
-    mergedPR: 138
-    openPR: 79
+    mergedPR: 140
+    openPR: 83
     closedIssue: 17
     openIssue: 43
     commit: 36
   last180d:
     since: 2026-03-11
     release: 4
-    mergedPR: 293
-    openPR: 96
+    mergedPR: 295
+    openPR: 100
     closedIssue: 38
     openIssue: 68
     commit: 187
   last360d:
     since: 2025-09-12
     release: 12
-    mergedPR: 609
-    openPR: 103
+    mergedPR: 611
+    openPR: 107
     closedIssue: 130
     openIssue: 121
     commit: 486
   last720d:
     since: 2024-09-17
     release: 24
-    mergedPR: 1211
-    openPR: 104
+    mergedPR: 1213
+    openPR: 108
     closedIssue: 391
     openIssue: 207
     commit: 1093
 total:
   release: 125
-  mergedPR: 3000
-  openPR: 104
+  mergedPR: 3002
+  openPR: 108
   closedIssue: 2126
   openIssue: 437
   commit: 7553
 ---
 path: /home/runner/.x-repo/github.com/sigp/lighthouse
-collectedAt: 2026-09-07T04:51:15Z
+collectedAt: 2026-09-07T19:37:05Z
 loc:
   Rust:
     code: 281565
@@ -361,7 +361,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:51:16+00:00
+  collectedAt: 2026-09-07T19:37:06+00:00
   platform:
     darwin/arm64:
       name:  lighthouse-v8.2.2-aarch64-apple-darwin.tar.gz
