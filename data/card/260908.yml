@@ -5,7 +5,7 @@ about:
   head: e423a66
   archived: false
   latestVersion: "v8.2.2"
-  collectedAt: 2026-09-08T02:10:40Z
+  collectedAt: 2026-09-08T04:50:01Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-08-17
@@ -17,7 +17,7 @@ popularity:
   release: 125
   contributor: 237
   pullRequest: 7353
-  issue: 2564
+  issue: 2566
 language:
   Rust: 13105838
   Shell: 34222
@@ -31,61 +31,61 @@ recent:
   last30d:
     since: 2026-08-09
     release: 1
-    mergedPR: 40
-    openPR: 60
+    mergedPR: 41
+    openPR: 58
     closedIssue: 4
-    openIssue: 15
+    openIssue: 17
     commit: 2
   last60d:
     since: 2026-07-10
     release: 2
-    mergedPR: 89
-    openPR: 75
+    mergedPR: 90
+    openPR: 73
     closedIssue: 9
-    openIssue: 27
+    openIssue: 29
     commit: 8
   last90d:
     since: 2026-06-10
     release: 3
-    mergedPR: 136
-    openPR: 84
+    mergedPR: 137
+    openPR: 82
     closedIssue: 16
-    openIssue: 44
+    openIssue: 46
     commit: 36
   last180d:
     since: 2026-03-12
     release: 4
-    mergedPR: 295
-    openPR: 102
+    mergedPR: 296
+    openPR: 100
     closedIssue: 38
-    openIssue: 69
+    openIssue: 71
     commit: 187
   last360d:
     since: 2025-09-13
     release: 12
-    mergedPR: 610
-    openPR: 109
+    mergedPR: 611
+    openPR: 107
     closedIssue: 130
-    openIssue: 122
+    openIssue: 124
     commit: 486
   last720d:
     since: 2024-09-18
     release: 24
-    mergedPR: 1210
-    openPR: 110
+    mergedPR: 1211
+    openPR: 108
     closedIssue: 390
-    openIssue: 208
+    openIssue: 210
     commit: 1091
 total:
   release: 125
-  mergedPR: 3002
-  openPR: 110
+  mergedPR: 3003
+  openPR: 108
   closedIssue: 2126
-  openIssue: 438
+  openIssue: 440
   commit: 7553
 ---
 path: /home/runner/.x-repo/github.com/sigp/lighthouse
-collectedAt: 2026-09-08T02:10:56Z
+collectedAt: 2026-09-08T04:50:33Z
 loc:
   Rust:
     code: 281565
