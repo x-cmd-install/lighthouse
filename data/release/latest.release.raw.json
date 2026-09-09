@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 29616186,
       "digest": "sha256:334922e4b55075fbe86acaef3ce2a8e55699d2c647443e83cffed00f3babfaa8",
-      "download_count": 2219,
+      "download_count": 2287,
       "created_at": "2026-08-18T00:11:19Z",
       "updated_at": "2026-08-18T00:11:20Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:7dade3cf0db3a0929532b9580d6e05f8caf15b90295286033aef4111c2c970a6",
-      "download_count": 313,
+      "download_count": 319,
       "created_at": "2026-08-18T00:11:18Z",
       "updated_at": "2026-08-18T00:11:19Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz.asc"
