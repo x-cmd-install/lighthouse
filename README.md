@@ -7,7 +7,7 @@ Ethereum consensus client in Rust
 - **Latest release**: `v8.2.2` (2026-08-18)
 - **Last commit**: 2026-08-17
 - **License**: Apache-2.0
-- **Stars**: 3467 · **Forks**: 1054 · **Open issues**: 2566 · **Contributors**: 237
+- **Stars**: 3468 · **Forks**: 1054 · **Open issues**: 2566 · **Contributors**: 237
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/lighthouse> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:53:34Z._
+_Last regenerated: 2026-09-09T19:11:27Z._
