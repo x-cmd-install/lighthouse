@@ -7,7 +7,7 @@ about:
   latestVersion: "v8.2.2"
   latestRelease: "v8.2.2"
   latestPrerelease: "v8.0.0-rc.2"
-  collectedAt: 2026-09-10T20:54:49Z
+  collectedAt: 2026-09-10T22:50:55Z
 timeline:
   created: 2018-07-06
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-18
   lastPrerelease: 2025-10-23
 popularity:
-  star: 3468
+  star: 3469
   watcher: 69
   fork: 1054
   release: 125
@@ -89,7 +89,7 @@ total:
   commit: 7553
 ---
 path: /home/runner/.x-repo/github.com/sigp/lighthouse
-collectedAt: 2026-09-10T20:55:16Z
+collectedAt: 2026-09-10T22:51:12Z
 loc:
   Rust:
     code: 281565
