@@ -1,0 +1,368 @@
+- repo: alpine_3_19
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 4.5.0
+  origversion: 4.5.0-r1
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 4.5.0
+  origversion: 4.5.0-r1
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 5.1.3
+  origversion: 5.1.3-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 5.1.3
+  origversion: 5.1.3-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 5.3.0
+  origversion: 5.3.0-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 5.3.0
+  origversion: 5.3.0-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 7.0.1
+  origversion: 7.0.1-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 7.0.1
+  origversion: 7.0.1-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 8.0.1
+  origversion: 8.0.1-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 8.0.1
+  origversion: 8.0.1-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 8.1.3
+  origversion: 8.1.3-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 8.1.3
+  origversion: 8.1.3-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 8.2.2
+  origversion: 8.2.2-r0
+  status: outdated
+  summary: Ethereum 2.0 Client
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: lighthouse
+  binname: lighthouse-doc
+  visiblename: lighthouse-doc
+  version: 8.2.2
+  origversion: 8.2.2-r0
+  status: outdated
+  summary: Ethereum 2.0 Client (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: lighthouse
+  binname: lighthouse
+  visiblename: lighthouse
+  version: 13.0.1
+  origversion: 13.0.1-1
+  status: outdated
+  summary: Automated auditing, performance metrics, and best practices for the web
+  maintainers:
+    - tlgs@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: lighthouse-git
+  binname: lighthouse-git
+  visiblename: lighthouse-git
+  version: r270.e32ff2e
+  origversion: r270.e32ff2e-1
+  status: rolling
+  summary: A simple scriptable popup dialog to run on X
+  maintainers:
+    - jade1@aur
+    - lygaret@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: lighthouse
+  visiblename: Lighthouse
+  version: 1.0.7
+  origversion: null
+  status: outdated
+- repo: homebrew
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 8.2.2
+  origversion: null
+  status: outdated
+  summary: Rust Ethereum 2.0 Client
+- repo: nix_stable_24_05
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 4.6.0
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 1.1.1
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - nix@monoid.al
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 5.3.0
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 1.2.0
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 6.0.1
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 1.3.1
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 7.1.0
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 1.3.2
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 8.1.3
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 1.5.0
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 8.1.3
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: lighthouse-steamvr
+  visiblename: Lighthouse
+  version: 2.0.0
+  origversion: null
+  status: legacy
+  summary: VR Lighthouse power state management
+  maintainers:
+    - luna@bddvlpr.com
+  licenses:
+    - MIT
+- repo: wikidata
+  srcname: Q104217227
+  visiblename: Lighthouse
+  version: 13.4.1
+  origversion: null
+  status: newest
+  summary: Google Chrome DevTools feature
+  licenses:
+    - Apache Software License 2.0
