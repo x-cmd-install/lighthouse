@@ -4,7 +4,7 @@
 
 Ethereum consensus client in Rust
 
-[![x-cmd/install — lighthouse Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lighthouse.svg?lang=zh)](https://x-cmd.com/install/lighthouse)
+[![x-cmd/install — lighthouse Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lighthouse.svg?lang=zh)](https://x-cmd.com/install/lighthouse)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install lighthouse
 
 ## 流行度
 
-- **Star**: 3,473 · **Fork**: 1,062 · **开放 issue**: 2,585 · **贡献者**: 237
+- **Star**: 3,474 · **Fork**: 1,064 · **开放 issue**: 2,585 · **贡献者**: 237
 
 ## 累计统计
 
-- **发布数**: 125 · **已合并 PR**: 3040 · **开放 PR**: 108 · **已关闭 issue**: 2134 · **开放 issue**: 451 · **提交数**: 7553
+- **发布数**: 125 · **已合并 PR**: 3041 · **开放 PR**: 109 · **已关闭 issue**: 2135 · **开放 issue**: 450 · **提交数**: 7553
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 34 | 51 | 5 | 26 | 0 |
-| last60d | 2026-07-24 | 1 | 100 | 73 | 10 | 35 | 2 |
-| 90d | 2026-06-24 | 2 | 145 | 83 | 21 | 52 | 18 |
-| last180d | 2026-03-26 | 4 | 308 | 98 | 40 | 82 | 167 |
-| 360d | 2025-09-27 | 12 | 621 | 107 | 124 | 130 | 463 |
-| last720d | 2024-10-02 | 24 | 1232 | 108 | 388 | 219 | 1077 |
+| 30d | 2026-08-24 | 0 | 33 | 52 | 6 | 25 | 0 |
+| last60d | 2026-07-25 | 1 | 101 | 73 | 11 | 34 | 2 |
+| 90d | 2026-06-25 | 2 | 145 | 82 | 22 | 51 | 18 |
+| last180d | 2026-03-27 | 3 | 306 | 99 | 41 | 81 | 167 |
+| 360d | 2025-09-28 | 12 | 620 | 108 | 125 | 129 | 463 |
+| last720d | 2024-10-03 | 24 | 1232 | 109 | 387 | 217 | 1077 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:11:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:11:27Z._
