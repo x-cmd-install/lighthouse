@@ -14,11 +14,11 @@ x install lighthouse
 
 ## Code insight
 
-Total: **295,048** lines of code across **1061** files in the top 5 languages.
+Total: **295,079** lines of code across **1061** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 281,565 | 17,525 | 35,121 | 895 |
+| Rust | 281,596 | 17,527 | 34,957 | 895 |
 | Json | 8,290 | 0 | 1 | 14 |
 | Toml | 2,496 | 74 | 210 | 94 |
 | Yaml | 1,378 | 1,258 | 298 | 46 |
@@ -42,39 +42,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v8.2.2` (2026-08-18)
-- **Last commit**: 2026-08-17
+- **Latest**: `v8.3.0-rc.0` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,477 · **Forks**: 1,067 · **Open issues**: 2,593 · **Contributors**: 237
+- **Stars**: 3,477 · **Forks**: 1,068 · **Open issues**: 2,594 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 125 · **Merged PRs**: 3065 · **Open PRs**: 104 · **Closed issues**: 2136 · **Open issues**: 457 · **Commits**: 7553
+- **Releases**: 127 · **Merged PRs**: 3070 · **Open PRs**: 108 · **Closed issues**: 2136 · **Open issues**: 458 · **Commits**: 7559
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 43 | 46 | 6 | 28 | 0 |
-| last60d | 2026-08-01 | 1 | 112 | 67 | 11 | 39 | 2 |
-| 90d | 2026-07-02 | 2 | 164 | 77 | 21 | 57 | 16 |
-| last180d | 2026-04-03 | 3 | 322 | 94 | 40 | 85 | 153 |
-| 360d | 2025-10-05 | 11 | 631 | 103 | 116 | 134 | 456 |
-| last720d | 2024-10-10 | 24 | 1250 | 104 | 385 | 223 | 1065 |
+| 30d | 2026-09-01 | 2 | 45 | 49 | 6 | 29 | 3 |
+| last60d | 2026-08-02 | 3 | 117 | 71 | 11 | 40 | 8 |
+| 90d | 2026-07-03 | 4 | 168 | 81 | 21 | 58 | 22 |
+| last180d | 2026-04-04 | 5 | 323 | 98 | 40 | 86 | 159 |
+| 360d | 2025-10-06 | 13 | 635 | 107 | 116 | 135 | 462 |
+| last720d | 2024-10-11 | 26 | 1254 | 108 | 385 | 224 | 1068 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lighthouse-v8.2.2-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-aarch64-apple-darwin.tar.gz) | 25.3 MiB | `native/darwin/arm64` |
-| [lighthouse-v8.2.2-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
-| [lighthouse-v8.2.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-aarch64-unknown-linux-gnu.tar.gz) | 26.6 MiB | `native/linux/arm64/glibc` |
-| [lighthouse-v8.2.2-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
-| [lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz) | 28.2 MiB | `native/linux/x64/glibc` |
-| [lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.2/lighthouse-v8.2.2-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
+| [lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz) | 24.3 MiB | `native/darwin/arm64` |
+| [lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
+| [lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz) | 26.6 MiB | `native/linux/arm64/glibc` |
+| [lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
+| [lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz) | 28.2 MiB | `native/linux/x64/glibc` |
+| [lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:43:14Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:00:17Z._
