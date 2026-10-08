@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25428418,
       "digest": "sha256:7ad90d0ce9094d84a6521ec1663b9f9309750ddd9ba7d078f34ea355885fe8d5",
-      "download_count": 53,
+      "download_count": 55,
       "created_at": "2026-10-01T02:04:41Z",
       "updated_at": "2026-10-01T02:04:42Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:956a5a0d187c1ed37d4079c47f18ad5ba329c1fda8d906424ab8eb7470a7f00e",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-10-01T02:04:41Z",
       "updated_at": "2026-10-01T02:04:41Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-apple-darwin.tar.gz.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 27940297,
       "digest": "sha256:f06498414925f029620c16c2afee03c69bca7c52f3846e98996ca71ddd3a21dd",
-      "download_count": 77,
+      "download_count": 79,
       "created_at": "2026-10-01T02:04:41Z",
       "updated_at": "2026-10-01T02:04:43Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:2b510b70bf2131e67a2dd76bf076f271a4d78387eaa626f4ce67bb523ca302b5",
-      "download_count": 45,
+      "download_count": 47,
       "created_at": "2026-10-01T02:04:41Z",
       "updated_at": "2026-10-01T02:04:41Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-aarch64-unknown-linux-gnu.tar.gz.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 29617123,
       "digest": "sha256:876f27e169161520ba4bb4d3bd19837f2474939e3c0f817a94749e0702c975ef",
-      "download_count": 942,
+      "download_count": 1060,
       "created_at": "2026-10-01T02:04:42Z",
       "updated_at": "2026-10-01T02:04:43Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:48744ee9655d613ff1ae301dee2b484a3d6586104e17422ff28c8d0997d9c22c",
-      "download_count": 202,
+      "download_count": 215,
       "created_at": "2026-10-01T02:04:41Z",
       "updated_at": "2026-10-01T02:04:41Z",
       "browser_download_url": "https://github.com/sigp/lighthouse/releases/download/v8.2.3/lighthouse-v8.2.3-x86_64-unknown-linux-gnu.tar.gz.asc"
