@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,484 · **Forks**: 1,084 · **Open issues**: 2,602 · **Contributors**: 237
+- **Stars**: 3,485 · **Forks**: 1,084 · **Open issues**: 2,602 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 3115 · **Open PRs**: 128 · **Closed issues**: 2147 · **Open issues**: 455 · **Commits**: 7559
+- **Releases**: 127 · **Merged PRs**: 3119 · **Open PRs**: 135 · **Closed issues**: 2149 · **Open issues**: 453 · **Commits**: 7559
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 65 | 65 | 9 | 25 | 2 |
-| last60d | 2026-08-13 | 3 | 129 | 94 | 17 | 38 | 5 |
-| 90d | 2026-07-14 | 4 | 191 | 101 | 23 | 46 | 9 |
-| last180d | 2026-04-15 | 5 | 355 | 118 | 46 | 82 | 139 |
-| 360d | 2025-10-17 | 12 | 653 | 127 | 122 | 129 | 436 |
-| last720d | 2024-10-22 | 26 | 1281 | 128 | 388 | 218 | 1050 |
+| 30d | 2026-09-13 | 2 | 69 | 71 | 10 | 23 | 2 |
+| last60d | 2026-08-14 | 3 | 132 | 100 | 19 | 36 | 5 |
+| 90d | 2026-07-15 | 4 | 191 | 106 | 24 | 44 | 9 |
+| last180d | 2026-04-16 | 5 | 357 | 125 | 48 | 80 | 139 |
+| 360d | 2025-10-18 | 12 | 656 | 134 | 124 | 127 | 436 |
+| last720d | 2024-10-23 | 26 | 1284 | 135 | 390 | 216 | 1048 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:08:57Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:02:23Z._
