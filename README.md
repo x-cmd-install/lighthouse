@@ -26,7 +26,7 @@ Total: **341,950** lines of code across **1149** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 3147 · **Open PRs**: 133 · **Closed issues**: 2158 · **Open issues**: 451 · **Commits**: 7832
+- **Releases**: 128 · **Merged PRs**: 3152 · **Open PRs**: 138 · **Closed issues**: 2159 · **Open issues**: 450 · **Commits**: 7832
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 3 | 87 | 66 | 10 | 17 | 97 |
-| last60d | 2026-08-21 | 3 | 132 | 94 | 20 | 36 | 165 |
-| 90d | 2026-07-22 | 4 | 207 | 105 | 27 | 43 | 230 |
-| last180d | 2026-04-23 | 6 | 375 | 124 | 55 | 77 | 392 |
-| 360d | 2025-10-25 | 12 | 662 | 131 | 130 | 120 | 686 |
-| last720d | 2024-10-30 | 27 | 1305 | 133 | 398 | 214 | 1315 |
+| 30d | 2026-09-21 | 3 | 89 | 70 | 9 | 17 | 97 |
+| last60d | 2026-08-22 | 3 | 136 | 100 | 20 | 35 | 165 |
+| 90d | 2026-07-23 | 4 | 209 | 110 | 26 | 43 | 230 |
+| last180d | 2026-04-24 | 6 | 380 | 128 | 56 | 76 | 392 |
+| 360d | 2025-10-26 | 12 | 665 | 136 | 131 | 119 | 686 |
+| last720d | 2024-10-31 | 27 | 1307 | 138 | 399 | 213 | 1313 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:00:18Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:54:13Z._
