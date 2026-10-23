@@ -14,14 +14,14 @@ x install lighthouse
 
 ## 代码洞察
 
-合计: **341,951** 行代码（覆盖前 5 种语言、共 **1149** 个文件）。
+合计: **341,948** 行代码（覆盖前 5 种语言、共 **1149** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Rust | 328,125 | 19,460 | 40,125 | 971 |
 | Json | 8,292 | 0 | 1 | 16 |
 | Toml | 2,722 | 96 | 248 | 99 |
-| Yaml | 1,422 | 1,308 | 319 | 49 |
+| Yaml | 1,419 | 1,306 | 317 | 49 |
 | Sh | 708 | 143 | 168 | 14 |
 
 ## OpenSSF Scorecard 评分
@@ -42,39 +42,49 @@ x install lighthouse
 
 ## 发布
 
-- **最新版本**: `v8.3.1` (2026-10-22)
+- **最新版本**: `v8.3.2` (2026-10-23)
 - **最近提交**: 2026-10-22
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 3,488 · **Fork**: 1,091 · **开放 issue**: 2,611 · **贡献者**: 256
+- **Star**: 3,489 · **Fork**: 1,091 · **开放 issue**: 2,612 · **贡献者**: 256
 
 ## 累计统计
 
-- **发布数**: 129 · **已合并 PR**: 3157 · **开放 PR**: 142 · **已关闭 issue**: 2161 · **开放 issue**: 450 · **提交数**: 7834
+- **发布数**: 131 · **已合并 PR**: 3165 · **开放 PR**: 136 · **已关闭 issue**: 2162 · **开放 issue**: 450 · **提交数**: 7835
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 91 | 72 | 10 | 16 | 99 |
-| last60d | 2026-08-23 | 4 | 141 | 103 | 22 | 35 | 167 |
-| 90d | 2026-07-24 | 5 | 214 | 114 | 28 | 43 | 232 |
-| last180d | 2026-04-25 | 7 | 384 | 132 | 58 | 76 | 394 |
-| 360d | 2025-10-27 | 13 | 666 | 140 | 133 | 119 | 688 |
-| last720d | 2024-11-01 | 28 | 1311 | 142 | 400 | 213 | 1314 |
+| 30d | 2026-09-23 | 6 | 95 | 67 | 11 | 16 | 100 |
+| last60d | 2026-08-24 | 6 | 146 | 97 | 23 | 35 | 168 |
+| 90d | 2026-07-25 | 7 | 221 | 108 | 29 | 43 | 233 |
+| last180d | 2026-04-26 | 9 | 391 | 127 | 59 | 76 | 395 |
+| 360d | 2025-10-28 | 15 | 671 | 134 | 132 | 118 | 689 |
+| last720d | 2024-11-02 | 30 | 1318 | 136 | 401 | 213 | 1314 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lighthouse-v8.3.1-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
-| [lighthouse-v8.3.1-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
-| [lighthouse-v8.3.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.1-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-x86_64-unknown-linux-gnu.tar.gz) | 29.9 MiB | `native/linux/x64/glibc` |
-| [lighthouse-v8.3.1-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.1/lighthouse-v8.3.1-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
+| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
+| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz) | 29.9 MiB | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/lighthouse) 上共有 **31** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `8.3.1` | ⚠️ outdated |
+| Nix unstable | `8.2.3` | ⚠️ outdated |
+| Alpine edge | `8.2.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -85,4 +95,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:52:57Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:58:35Z._
