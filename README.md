@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,489 · **Forks**: 1,091 · **Open issues**: 2,612 · **Contributors**: 256
+- **Stars**: 3,489 · **Forks**: 1,093 · **Open issues**: 2,612 · **Contributors**: 256
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 95 | 67 | 11 | 16 | 100 |
-| last60d | 2026-08-24 | 6 | 146 | 97 | 23 | 35 | 168 |
-| 90d | 2026-07-25 | 7 | 221 | 108 | 29 | 43 | 233 |
-| last180d | 2026-04-26 | 9 | 391 | 127 | 59 | 76 | 395 |
-| 360d | 2025-10-28 | 15 | 671 | 134 | 132 | 118 | 689 |
-| last720d | 2024-11-02 | 30 | 1318 | 136 | 401 | 213 | 1314 |
+| 30d | 2026-09-24 | 6 | 92 | 68 | 11 | 15 | 100 |
+| last60d | 2026-08-25 | 6 | 145 | 97 | 23 | 35 | 168 |
+| 90d | 2026-07-26 | 7 | 221 | 108 | 29 | 42 | 233 |
+| last180d | 2026-04-27 | 9 | 382 | 128 | 59 | 76 | 395 |
+| 360d | 2025-10-29 | 15 | 666 | 134 | 131 | 116 | 689 |
+| last720d | 2024-11-03 | 30 | 1318 | 136 | 401 | 213 | 1314 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Reported by **31** distros on [repology.org](https://repology.org/project/lighth
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `8.3.1` | ⚠️ outdated |
+| Homebrew | `8.3.2` | ⚠️ outdated |
 | Nix unstable | `8.2.3` | ⚠️ outdated |
 | Alpine edge | `8.2.3` | ⚠️ outdated |
 
@@ -95,4 +95,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:58:34Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:50:24Z._
