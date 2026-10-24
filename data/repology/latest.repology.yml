@@ -1,3 +1,15 @@
+- repo: nix_stable_24_05
+  srcname: lighthouse
+  visiblename: lighthouse
+  version: 4.6.0
+  origversion: null
+  status: outdated
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: lighthouse
@@ -214,22 +226,10 @@
 - repo: homebrew
   srcname: lighthouse
   visiblename: lighthouse
-  version: 8.3.1
+  version: 8.3.2
   origversion: null
   status: outdated
   summary: Rust Ethereum 2.0 Client
-- repo: nix_stable_24_05
-  srcname: lighthouse
-  visiblename: lighthouse
-  version: 4.6.0
-  origversion: null
-  status: outdated
-  summary: Ethereum consensus client in Rust
-  maintainers:
-    - nix@centromere.net
-    - philip@mailworks.org
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: lighthouse-steamvr
   visiblename: Lighthouse
