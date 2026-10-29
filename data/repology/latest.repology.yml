@@ -1,15 +1,10 @@
-- repo: nix_stable_24_05
+- repo: homebrew
   srcname: lighthouse
   visiblename: lighthouse
-  version: 4.6.0
+  version: 8.3.2
   origversion: null
   status: outdated
-  summary: Ethereum consensus client in Rust
-  maintainers:
-    - nix@centromere.net
-    - philip@mailworks.org
-  licenses:
-    - Apache-2.0
+  summary: Rust Ethereum 2.0 Client
 - repo: alpine_3_19
   subrepo: community
   srcname: lighthouse
@@ -217,19 +212,18 @@
     - lygaret@aur
   licenses:
     - MIT
-- repo: chocolatey
-  binname: lighthouse
-  visiblename: Lighthouse
-  version: 1.0.7
-  origversion: null
-  status: outdated
-- repo: homebrew
+- repo: nix_stable_24_05
   srcname: lighthouse
   visiblename: lighthouse
-  version: 8.3.2
+  version: 4.6.0
   origversion: null
   status: outdated
-  summary: Rust Ethereum 2.0 Client
+  summary: Ethereum consensus client in Rust
+  maintainers:
+    - nix@centromere.net
+    - philip@mailworks.org
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: lighthouse-steamvr
   visiblename: Lighthouse
@@ -360,9 +354,15 @@
 - repo: wikidata
   srcname: Q104217227
   visiblename: Lighthouse
-  version: 13.5.0
+  version: 13.6.0
   origversion: null
   status: newest
   summary: Google Chrome DevTools feature
   licenses:
     - Apache Software License 2.0
+- repo: chocolatey
+  binname: lighthouse
+  visiblename: Lighthouse
+  version: 1.0.7
+  origversion: null
+  status: outdated
