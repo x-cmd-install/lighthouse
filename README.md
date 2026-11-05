@@ -30,8 +30,8 @@ Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,494 · **Forks**: 1,094 · **Open issues**: 2,623 · **Contributors**: 256
+- **Stars**: 3,495 · **Forks**: 1,096 · **Open issues**: 2,623 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 131 · **Merged PRs**: 3178 · **Open PRs**: 146 · **Closed issues**: 2170 · **Open issues**: 453 · **Commits**: 7835
+- **Releases**: 131 · **Merged PRs**: 3178 · **Open PRs**: 150 · **Closed issues**: 2170 · **Open issues**: 453 · **Commits**: 7835
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 72 | 81 | 8 | 17 | 49 |
-| last60d | 2026-09-05 | 6 | 137 | 107 | 23 | 38 | 135 |
-| 90d | 2026-08-06 | 7 | 205 | 126 | 32 | 47 | 206 |
-| last180d | 2026-05-08 | 9 | 370 | 138 | 60 | 76 | 367 |
-| 360d | 2025-11-09 | 14 | 658 | 144 | 133 | 121 | 656 |
-| last720d | 2024-11-14 | 30 | 1322 | 146 | 406 | 214 | 1306 |
+| 30d | 2026-10-06 | 4 | 64 | 83 | 6 | 17 | 49 |
+| last60d | 2026-09-06 | 6 | 136 | 111 | 23 | 38 | 135 |
+| 90d | 2026-08-07 | 7 | 204 | 130 | 31 | 47 | 206 |
+| last180d | 2026-05-09 | 9 | 369 | 142 | 60 | 76 | 367 |
+| 360d | 2025-11-10 | 14 | 655 | 148 | 132 | 121 | 656 |
+| last720d | 2024-11-15 | 30 | 1321 | 150 | 406 | 214 | 1306 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:30:41Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:52:35Z._

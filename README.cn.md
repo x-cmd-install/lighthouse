@@ -30,8 +30,8 @@ x install lighthouse
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -48,22 +48,22 @@ x install lighthouse
 
 ## 流行度
 
-- **Star**: 3,494 · **Fork**: 1,094 · **开放 issue**: 2,623 · **贡献者**: 256
+- **Star**: 3,495 · **Fork**: 1,096 · **开放 issue**: 2,623 · **贡献者**: 256
 
 ## 累计统计
 
-- **发布数**: 131 · **已合并 PR**: 3178 · **开放 PR**: 146 · **已关闭 issue**: 2170 · **开放 issue**: 453 · **提交数**: 7835
+- **发布数**: 131 · **已合并 PR**: 3178 · **开放 PR**: 150 · **已关闭 issue**: 2170 · **开放 issue**: 453 · **提交数**: 7835
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 72 | 81 | 8 | 17 | 49 |
-| last60d | 2026-09-05 | 6 | 137 | 107 | 23 | 38 | 135 |
-| 90d | 2026-08-06 | 7 | 205 | 126 | 32 | 47 | 206 |
-| last180d | 2026-05-08 | 9 | 370 | 138 | 60 | 76 | 367 |
-| 360d | 2025-11-09 | 14 | 658 | 144 | 133 | 121 | 656 |
-| last720d | 2024-11-14 | 30 | 1322 | 146 | 406 | 214 | 1306 |
+| 30d | 2026-10-06 | 4 | 64 | 83 | 6 | 17 | 49 |
+| last60d | 2026-09-06 | 6 | 136 | 111 | 23 | 38 | 135 |
+| 90d | 2026-08-07 | 7 | 204 | 130 | 31 | 47 | 206 |
+| last180d | 2026-05-09 | 9 | 369 | 142 | 60 | 76 | 367 |
+| 360d | 2025-11-10 | 14 | 655 | 148 | 132 | 121 | 656 |
+| last720d | 2024-11-15 | 30 | 1321 | 150 | 406 | 214 | 1306 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:30:41Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:52:35Z._
