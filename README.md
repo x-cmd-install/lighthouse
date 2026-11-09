@@ -14,15 +14,15 @@ x install lighthouse
 
 ## Code insight
 
-Total: **341,948** lines of code across **1149** files in the top 5 languages.
+Total: **342,029** lines of code across **1149** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 328,125 | 19,460 | 40,125 | 971 |
+| Rust | 328,203 | 19,470 | 40,141 | 971 |
 | Json | 8,292 | 0 | 1 | 16 |
-| Toml | 2,722 | 96 | 248 | 99 |
+| Toml | 2,723 | 96 | 248 | 99 |
 | Yaml | 1,419 | 1,306 | 317 | 49 |
-| Sh | 708 | 143 | 168 | 14 |
+| Sh | 709 | 143 | 168 | 14 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v8.3.2` (2026-10-23)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-09
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,494 · **Forks**: 1,099 · **Open issues**: 2,625 · **Contributors**: 256
+- **Stars**: 3,495 · **Forks**: 1,100 · **Open issues**: 2,625 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 131 · **Merged PRs**: 3178 · **Open PRs**: 150 · **Closed issues**: 2171 · **Open issues**: 454 · **Commits**: 7835
+- **Releases**: 131 · **Merged PRs**: 3184 · **Open PRs**: 143 · **Closed issues**: 2171 · **Open issues**: 454 · **Commits**: 7845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 4 | 45 | 69 | 6 | 18 | 49 |
-| last60d | 2026-09-09 | 6 | 124 | 106 | 21 | 38 | 135 |
-| 90d | 2026-08-10 | 7 | 199 | 130 | 32 | 47 | 206 |
-| last180d | 2026-05-12 | 9 | 366 | 142 | 60 | 75 | 367 |
-| 360d | 2025-11-13 | 14 | 652 | 148 | 130 | 122 | 656 |
-| last720d | 2024-11-18 | 30 | 1318 | 150 | 407 | 215 | 1304 |
+| 30d | 2026-10-10 | 4 | 48 | 65 | 5 | 18 | 18 |
+| last60d | 2026-09-10 | 6 | 128 | 101 | 21 | 38 | 127 |
+| 90d | 2026-08-11 | 7 | 202 | 123 | 32 | 47 | 204 |
+| last180d | 2026-05-13 | 9 | 371 | 135 | 58 | 74 | 372 |
+| 360d | 2025-11-14 | 14 | 655 | 141 | 130 | 122 | 658 |
+| last720d | 2024-11-19 | 30 | 1323 | 143 | 407 | 215 | 1311 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:12:40Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:38:22Z._
