@@ -42,39 +42,39 @@ x install lighthouse
 
 ## 发布
 
-- **最新版本**: `v8.3.2` (2026-10-23)
+- **最新版本**: `v8.3.3` (2026-11-09)
 - **最近提交**: 2026-11-09
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 3,495 · **Fork**: 1,100 · **开放 issue**: 2,625 · **贡献者**: 256
+- **Star**: 3,497 · **Fork**: 1,100 · **开放 issue**: 2,626 · **贡献者**: 256
 
 ## 累计统计
 
-- **发布数**: 131 · **已合并 PR**: 3184 · **开放 PR**: 143 · **已关闭 issue**: 2171 · **开放 issue**: 454 · **提交数**: 7845
+- **发布数**: 132 · **已合并 PR**: 3187 · **开放 PR**: 140 · **已关闭 issue**: 2171 · **开放 issue**: 455 · **提交数**: 7845
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 4 | 48 | 65 | 5 | 18 | 18 |
-| last60d | 2026-09-10 | 6 | 128 | 101 | 21 | 38 | 127 |
-| 90d | 2026-08-11 | 7 | 202 | 123 | 32 | 47 | 204 |
-| last180d | 2026-05-13 | 9 | 371 | 135 | 58 | 74 | 372 |
-| 360d | 2025-11-14 | 14 | 655 | 141 | 130 | 122 | 658 |
-| last720d | 2024-11-19 | 30 | 1323 | 143 | 407 | 215 | 1311 |
+| 30d | 2026-10-11 | 5 | 50 | 62 | 5 | 19 | 18 |
+| last60d | 2026-09-11 | 7 | 130 | 97 | 20 | 38 | 127 |
+| 90d | 2026-08-12 | 8 | 205 | 120 | 31 | 48 | 204 |
+| last180d | 2026-05-14 | 10 | 373 | 132 | 58 | 74 | 372 |
+| 360d | 2025-11-15 | 15 | 657 | 138 | 130 | 123 | 658 |
+| last720d | 2024-11-20 | 31 | 1325 | 140 | 407 | 216 | 1310 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
-| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
-| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz) | 29.9 MiB | `native/linux/x64/glibc` |
-| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
+| [lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
+| [lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz) | 30.0 MiB | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
@@ -82,7 +82,7 @@ x install lighthouse
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `8.3.2` | ⚠️ outdated |
+| Homebrew | `8.3.3` | ⚠️ outdated |
 | Nix unstable | `8.2.3` | ⚠️ outdated |
 | Alpine edge | `8.2.3` | ⚠️ outdated |
 
@@ -95,4 +95,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:38:23Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:34:06Z._

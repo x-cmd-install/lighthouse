@@ -42,39 +42,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v8.3.2` (2026-10-23)
+- **Latest**: `v8.3.3` (2026-11-09)
 - **Last commit**: 2026-11-09
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 3,495 · **Forks**: 1,100 · **Open issues**: 2,625 · **Contributors**: 256
+- **Stars**: 3,497 · **Forks**: 1,100 · **Open issues**: 2,626 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 131 · **Merged PRs**: 3184 · **Open PRs**: 143 · **Closed issues**: 2171 · **Open issues**: 454 · **Commits**: 7845
+- **Releases**: 132 · **Merged PRs**: 3187 · **Open PRs**: 140 · **Closed issues**: 2171 · **Open issues**: 455 · **Commits**: 7845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 4 | 48 | 65 | 5 | 18 | 18 |
-| last60d | 2026-09-10 | 6 | 128 | 101 | 21 | 38 | 127 |
-| 90d | 2026-08-11 | 7 | 202 | 123 | 32 | 47 | 204 |
-| last180d | 2026-05-13 | 9 | 371 | 135 | 58 | 74 | 372 |
-| 360d | 2025-11-14 | 14 | 655 | 141 | 130 | 122 | 658 |
-| last720d | 2024-11-19 | 30 | 1323 | 143 | 407 | 215 | 1311 |
+| 30d | 2026-10-11 | 5 | 50 | 62 | 5 | 19 | 18 |
+| last60d | 2026-09-11 | 7 | 130 | 97 | 20 | 38 | 127 |
+| 90d | 2026-08-12 | 8 | 205 | 120 | 31 | 48 | 204 |
+| last180d | 2026-05-14 | 10 | 373 | 132 | 58 | 74 | 372 |
+| 360d | 2025-11-15 | 15 | 657 | 138 | 130 | 123 | 658 |
+| last720d | 2024-11-20 | 31 | 1325 | 140 | 407 | 216 | 1310 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
-| [lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
-| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
-| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz) | 29.9 MiB | `native/linux/x64/glibc` |
-| [lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.2/lighthouse-v8.3.2-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz) | 25.7 MiB | `native/darwin/arm64` |
+| [lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-apple-darwin.tar.gz.asc) | 870 B | `native/darwin/arm64` |
+| [lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz) | 28.4 MiB | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-aarch64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/arm64/glibc` |
+| [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz) | 30.0 MiB | `native/linux/x64/glibc` |
+| [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
 ## Distribution status
 
@@ -82,7 +82,7 @@ Reported by **31** distros on [repology.org](https://repology.org/project/lighth
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `8.3.2` | ⚠️ outdated |
+| Homebrew | `8.3.3` | ⚠️ outdated |
 | Nix unstable | `8.2.3` | ⚠️ outdated |
 | Alpine edge | `8.2.3` | ⚠️ outdated |
 
@@ -95,4 +95,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:38:22Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:34:04Z._
