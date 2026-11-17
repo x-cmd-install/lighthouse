@@ -48,22 +48,22 @@ x install lighthouse
 
 ## 流行度
 
-- **Star**: 3,498 · **Fork**: 1,102 · **开放 issue**: 2,628 · **贡献者**: 256
+- **Star**: 3,498 · **Fork**: 1,103 · **开放 issue**: 2,629 · **贡献者**: 256
 
 ## 累计统计
 
-- **发布数**: 132 · **已合并 PR**: 3188 · **开放 PR**: 142 · **已关闭 issue**: 2173 · **开放 issue**: 455 · **提交数**: 7845
+- **发布数**: 132 · **已合并 PR**: 3200 · **开放 PR**: 133 · **已关闭 issue**: 2175 · **开放 issue**: 454 · **提交数**: 7845
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 35 | 55 | 5 | 17 | 9 |
-| last60d | 2026-09-17 | 7 | 122 | 98 | 19 | 38 | 114 |
-| 90d | 2026-08-18 | 8 | 185 | 119 | 30 | 48 | 181 |
-| last180d | 2026-05-20 | 10 | 362 | 133 | 59 | 74 | 357 |
-| 360d | 2025-11-21 | 14 | 652 | 140 | 130 | 121 | 652 |
-| last720d | 2024-11-26 | 31 | 1318 | 142 | 407 | 215 | 1307 |
+| 30d | 2026-10-18 | 5 | 46 | 47 | 6 | 16 | 9 |
+| last60d | 2026-09-18 | 7 | 133 | 87 | 19 | 28 | 114 |
+| 90d | 2026-08-19 | 7 | 189 | 107 | 31 | 46 | 181 |
+| last180d | 2026-05-21 | 10 | 371 | 124 | 61 | 73 | 357 |
+| 360d | 2025-11-22 | 14 | 664 | 131 | 132 | 120 | 652 |
+| last720d | 2024-11-27 | 31 | 1327 | 133 | 408 | 214 | 1304 |
 
 ## Release 资产
 
@@ -76,16 +76,6 @@ x install lighthouse
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz) | 30.0 MiB | `native/linux/x64/glibc` |
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lighthouse) 上共有 **31** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `8.3.3` | ⚠️ outdated |
-| Nix unstable | `8.2.3` | ⚠️ outdated |
-| Alpine edge | `8.2.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lighthouse` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +85,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:54:02Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:19:29Z._
