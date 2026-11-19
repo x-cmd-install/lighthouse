@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,498 · **Forks**: 1,103 · **Open issues**: 2,629 · **Contributors**: 256
+- **Stars**: 3,499 · **Forks**: 1,103 · **Open issues**: 2,631 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 132 · **Merged PRs**: 3200 · **Open PRs**: 133 · **Closed issues**: 2175 · **Open issues**: 454 · **Commits**: 7845
+- **Releases**: 132 · **Merged PRs**: 3204 · **Open PRs**: 135 · **Closed issues**: 2175 · **Open issues**: 456 · **Commits**: 7845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 46 | 47 | 6 | 16 | 9 |
-| last60d | 2026-09-18 | 7 | 133 | 87 | 19 | 28 | 114 |
-| 90d | 2026-08-19 | 7 | 189 | 107 | 31 | 46 | 181 |
-| last180d | 2026-05-21 | 10 | 371 | 124 | 61 | 73 | 357 |
-| 360d | 2025-11-22 | 14 | 664 | 131 | 132 | 120 | 652 |
-| last720d | 2024-11-27 | 31 | 1327 | 133 | 408 | 214 | 1304 |
+| 30d | 2026-10-20 | 4 | 37 | 46 | 6 | 16 | 9 |
+| last60d | 2026-09-20 | 7 | 137 | 88 | 19 | 30 | 114 |
+| 90d | 2026-08-21 | 7 | 186 | 108 | 31 | 47 | 181 |
+| last180d | 2026-05-23 | 10 | 368 | 126 | 61 | 75 | 357 |
+| 360d | 2025-11-24 | 14 | 663 | 133 | 132 | 122 | 652 |
+| last720d | 2024-11-29 | 31 | 1325 | 135 | 408 | 216 | 1303 |
 
 ## Release assets
 
@@ -76,6 +76,16 @@ Lowest-scoring checks:
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz) | 30.0 MiB | `native/linux/x64/glibc` |
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
+## Distribution status
+
+Reported by **31** distros on [repology.org](https://repology.org/project/lighthouse). **1** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `8.3.3` | ⚠️ outdated |
+| Nix unstable | `8.2.3` | ⚠️ outdated |
+| Alpine edge | `8.2.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lighthouse` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +95,4 @@ Install metadata for lighthouse lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:19:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:15:48Z._
