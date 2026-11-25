@@ -52,18 +52,18 @@ x install lighthouse
 
 ## 累计统计
 
-- **发布数**: 132 · **已合并 PR**: 3210 · **开放 PR**: 132 · **已关闭 issue**: 2175 · **开放 issue**: 458 · **提交数**: 7845
+- **发布数**: 132 · **已合并 PR**: 3216 · **开放 PR**: 127 · **已关闭 issue**: 2176 · **开放 issue**: 457 · **提交数**: 7845
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 32 | 43 | 5 | 16 | 7 |
-| last60d | 2026-09-25 | 7 | 133 | 81 | 16 | 31 | 92 |
-| 90d | 2026-08-26 | 7 | 187 | 101 | 31 | 48 | 165 |
-| last180d | 2026-05-28 | 10 | 366 | 122 | 60 | 75 | 349 |
-| 360d | 2025-11-29 | 14 | 655 | 130 | 129 | 120 | 637 |
-| last720d | 2024-12-04 | 30 | 1325 | 132 | 406 | 216 | 1295 |
+| 30d | 2026-10-26 | 1 | 36 | 40 | 4 | 15 | 7 |
+| last60d | 2026-09-26 | 7 | 137 | 78 | 17 | 30 | 92 |
+| 90d | 2026-08-27 | 7 | 191 | 97 | 32 | 47 | 165 |
+| last180d | 2026-05-29 | 10 | 371 | 117 | 61 | 74 | 349 |
+| 360d | 2025-11-30 | 14 | 661 | 125 | 130 | 119 | 637 |
+| last720d | 2024-12-05 | 30 | 1328 | 127 | 406 | 215 | 1295 |
 
 ## Release 资产
 
@@ -76,16 +76,6 @@ x install lighthouse
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz) | 30.0 MiB | `native/linux/x64/glibc` |
 | [lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc](https://github.com/sigp/lighthouse/releases/download/v8.3.3/lighthouse-v8.3.3-x86_64-unknown-linux-gnu.tar.gz.asc) | 833 B | `native/linux/x64/glibc` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lighthouse) 上共有 **31** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `8.3.3` | ⚠️ outdated |
-| Nix unstable | `8.2.3` | ⚠️ outdated |
-| Alpine edge | `8.2.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lighthouse` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +85,4 @@ lighthouse 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:05:10Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:56:11Z._
